@@ -23,3 +23,9 @@ Neste último mês de abril de 2021, o termo Indústria 4.0 celebrou 10 anos de 
 9. Alguns setores como automotivo, agro, têxtil e saúde tem condições imediatas de liderar ou estar na elite global de produção.
 
 10. O governo brasileiro está no tempo correto quanto ao tema, lançando ainda este ano as diretrizes para nortear a indústria 4.0 brasileira.
+
+## Fontes:
+
+[![startse](https://img.shields.io/badge/QuandoSurgiu-yellow)](https://app.startse.com/artigos/industria-4-0-o-que-e )
+
+[![startse](https://img.shields.io/badge/ParaQue-yellow)](https://www.startse.com/noticia/empreendedores/10-motivos-que-explicam-necessidade-da-industria-4-0-no-brasil)
